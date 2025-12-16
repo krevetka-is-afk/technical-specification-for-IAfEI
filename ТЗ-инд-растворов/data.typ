@@ -1,11 +1,11 @@
 #let data = (
   // Project code
   // You can find it here: https://ru-ikt.ru/reestrpo
-  code: "12-17", // check if there need to update for personal task
+  code: "05.09",
 
   // Project name
-  project_name: "Цифровой Ассистент Студента",
-  project_name_english: "Digital Student Assistant",
+  project_name: "Разработка интеллектуального ассистента для образовательных учреждений",
+  project_name_english: "Development of an Intelligent Assistant for Educational Institutions",
 
   // Students
   students: (
@@ -13,9 +13,9 @@
   ),
 
   // Agreed
-  agreed_by_name: "А. А. Паринов",
-  agreed_by_position: "Старший преподаватель: Департамент анализа данных и искусственного интеллекта,
-НИУ ВШЭ",
+  agreed_by_name: "В. Е. Козловский",
+  agreed_by_position: "Старший разработчик в X5 Tech",
+
 
   // Approved
   approved_by_name: "Н. А. Павлочев",
