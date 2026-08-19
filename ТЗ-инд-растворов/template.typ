@@ -348,7 +348,7 @@
         
 
         set par(
-            first-line-indent: 2em,
+            first-line-indent: (amount: 2em, all: true),
             justify: true,
             leading: 1em,
         )
@@ -378,7 +378,6 @@
             ] else [
                 #h.body
             ]
-
         }
 
         show heading.where(level: 2): h => {
@@ -386,7 +385,7 @@
 
             block(inset: (left: 1em))[#counter(heading).display() #h.body]
         }
-        
+
         show heading.where(level: 3): h => {
             set text(weight: "bold", size: 12pt)
 

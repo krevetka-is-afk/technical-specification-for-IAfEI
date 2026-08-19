@@ -9,9 +9,9 @@
 
   // Students
   students: (
-    (name: "A. К. Соколова", group: "БПИ235"), // TODO @Sasha-A4: replace *
+    (name: "А. К. Соколова", group: "БПИ235"),
     (name: "С. Е. Растворов", group: "БПИ236"),
-    (name: "Л. Д. Субботин", group: "БПИ244"), // TODO @lvfky: replace *
+    (name: "Л. А. Субботин", group: "БПИ244"),
   ),
 
   // Agreed
