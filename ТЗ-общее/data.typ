@@ -106,7 +106,7 @@
   software: (
     [Python 3.12, FastAPI, aiogram 3.x.],
     [LangChain, HuggingFace Embeddings (ruBERT-tiny2), ChromaDB.],
-    [Ollama и локальная генеративная модель Mistral.],
+    [Ollama и локальная генеративная модель qwen2.5:3b.],
     [PostgreSQL 16, SQLAlchemy (asyncpg).],
     [Docker и Docker Compose; pypdf, средства чтения HTML, TXT и DOCX для подготовки корпуса документов.],
     [Typst для технической документации, Git для контроля версий.]
