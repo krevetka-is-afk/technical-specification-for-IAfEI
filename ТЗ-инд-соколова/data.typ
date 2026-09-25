@@ -26,7 +26,7 @@ Institutions",
   // Example: "П. В. Дуров"
   agreed_by_name: "В. Е. Козловский",
   // Example: "Основатель социальной сети \"ВКонтакте\" и мессенджера Telegram"
-  agreed_by_position: "Магистр наук о данных, стращий разработчик X5 Tech",
+  agreed_by_position: "Магистр наук о данных,\nстарший разработчик в X5 Tech",
 
   // Approved
   approved_by_name: "Н. А. Павлочев",
